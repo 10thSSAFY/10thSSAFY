@@ -17,4 +17,4 @@
 #### 불면증에 시달리고 있다. 2023년 7월 12일 SSAFY 수업을 앞두고 진적 새벽 4시까지 잠을 못 자다가 힘들게 잠깐 수면 후 기상하여 저조한 컨디션으로 수업을 들으러 갔다.
 ## 7. 기타
 -->
-<img src="https://github.com/10thSSAFY/10thSSAFY/header.png" alt="Iwan GitHub README header image">
+<img src="https://github.com/10thSSAFY/10thSSAFY/blob/master/header.png" alt="Iwan GitHub README header image">
