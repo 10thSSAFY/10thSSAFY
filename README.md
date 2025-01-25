@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=10th%20SSAFY&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=dcdff5&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=10th%20SSAFY&fontAlignY=47&section=header&reversal=false&textBg=false&fontColor=dcdff5&fontSize=80&animation=twinkling)
 ## Hi there 👋
 
 # 📈 STATS
