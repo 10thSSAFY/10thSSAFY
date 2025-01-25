@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=10th%20SSAFY&section=header&reversal=false&textBg=false&fontAlign=50&fontColor=dcdff5&fontSize=80&animation=twinkling)
 ## Hi there 👋
 
+# 📈 STATS
+## Algorithm
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan)
+![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=ssafyiwan)
+## GitHub
+![10thSSAFY's GitHub stats](https://github-readme-stats.vercel.app/api?username=10thSSAFY&show_icons=true&theme=default)
+![10thSSAFY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10thSSAFY&layout=compact&them=default&langs_count=8)
+
 # 🖥️ STACKS
 ## Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,11 +20,6 @@
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📈 STATS
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan)
-<br>
-![10thSSAFY's GitHub stats](https://github-readme-stats.vercel.app/api?username=10thSSAFY&show_icons=true&theme=ambient_gradient)
 
 <div align="right">
   <span>📩 ssafyiwan@gmail.com</span></br>
