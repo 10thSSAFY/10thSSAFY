@@ -13,6 +13,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📈 STATS
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan)
+<br>
+![10thSSAFY's GitHub stats](https://github-readme-stats.vercel.app/api?username=10thSSAFY&show_icons=true&theme=ambient_gradient)
+
+<div align="right">
+  <span>📩 ssafyiwan@gmail.com</span></br>
+</div>
 <!--
 # 박이완
 ## 1. 개요
