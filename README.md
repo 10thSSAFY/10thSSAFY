@@ -1,10 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=10th%20SSAFY&fontAlignY=47&section=header&reversal=false&textBg=false&fontColor=dcdff5&fontSize=80&animation=twinkling)
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:b063dc,100:B62372&text=10th%20SSAFY&fontAlignY=47&section=header&reversal=false&textBg=false&fontColor=dcdff5&fontSize=80&animation=twinkling">
+</p>
 
+<h1 align="center">📈 STATS</h1>
+<h2 align="center">Algorithm</h2>
+<p align="center">
+  <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan"></a>
+  <a href="https://solved.ac/profile/ssafyiwan"><img src="http://mazandi.herokuapp.com/api?handle=ssafyiwan"></a>
+  <a href="https://solved.ac/profile/ssafyiwan"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ssafyiwan"></a>
+</p>
+
+<h2 align="center">GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=10thSSAFY&show_icons=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10thSSAFY&layout=compact&them=default&langs_count=8">
+</p>
+
+<br>
+<br>
+
+<h1 align="center">🖥️ STACKS</h1>
+<h2 align="center">Language</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
+<h2 align="center">Framework</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%230c4b33.svg?style=for-the-badge&logo=django&logoColor=white">
+</p>
+
+<h2 align="center">Version Control</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<div align="right">
+  <span>📩 ssafyiwan@gmail.com</span></br>
+</div>
+
+<!--
 # 📈 STATS
 ## Algorithm
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssafyiwan)
 ![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=ssafyiwan)
+![Solved.ac Profile](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=ssafyiwan)
+
 ## GitHub
 ![10thSSAFY's GitHub stats](https://github-readme-stats.vercel.app/api?username=10thSSAFY&show_icons=true&theme=default)
 ![10thSSAFY's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10thSSAFY&layout=compact&them=default&langs_count=8)
@@ -20,10 +65,10 @@
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+-->
 
-<div align="right">
-  <span>📩 ssafyiwan@gmail.com</span></br>
-</div>
+<!-- ## Hi there 👋 -->
+
 <!--
 # 박이완
 ## 1. 개요
